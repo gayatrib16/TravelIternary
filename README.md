@@ -1,15 +1,13 @@
 # Travel Iternarary site using Reactjs
 
+"Itinerary Planner" is a simple React application designed for managing tasks that need to be completed before or during travels. Users can add, view, update, and delete travel tasks, demonstrating CRUD operations in React using Hooks.
+
 ## Vercel Deployment Link
 
 https://travel-iternary.vercel.app/
 
+## UI of the Site
 ![image](https://github.com/gayatrib16/TravelIternary/assets/98201306/5291bffa-b1fb-4453-a5f2-c14b95ba37b8)
-
-"Itinerary Planner" is a simple React application designed for managing tasks that need to be completed before or during travels. Users can add, view, update, and delete travel tasks, demonstrating CRUD operations in React using Hooks.
-
-
-
 ### Features
 
 Add Tasks: Users can enter tasks into an input field and add them to their itinerary.
