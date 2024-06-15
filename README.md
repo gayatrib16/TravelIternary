@@ -1,4 +1,4 @@
-# Travel Iternarary site using Reactjs
+![image](https://github.com/gayatrib16/TravelIternary/assets/98201306/5291bffa-b1fb-4453-a5f2-c14b95ba37b8)# Travel Iternarary site using Reactjs
 
 "Itinerary Planner" is a simple React application designed for managing tasks that need to be completed before or during travels. Users can add, view, update, and delete travel tasks, demonstrating CRUD operations in React using Hooks.
 
@@ -20,15 +20,20 @@ CRUD Operations: Implemented for travel tasks.
 Input Validation: Prevents empty task submissions.
 Styling: Uses CSS (or optionally, a CSS framework like Bootstrap) for simple and intuitive layout.
 
-### `npm run build`
+### ScreenShot of the UI(Create)
+![image](https://github.com/gayatrib16/TravelIternary/assets/98201306/201d3934-4dc3-4c12-8d14-58134a7c4713)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### After Adding List of iternaray(VIEW/ Read) 
+![image](https://github.com/gayatrib16/TravelIternary/assets/98201306/41dedf04-a8bd-40b2-82e2-ea8cf06f836d)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Editing the item added(Update)
+![image](https://github.com/gayatrib16/TravelIternary/assets/98201306/e5d40cee-3693-4d3b-b2e3-f87388ef7904)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/gayatrib16/TravelIternary/assets/98201306/2bc0a0f1-efa1-429e-b9ba-1347d5bba5bc)
+
+### Deleting an Item(Delete)
+![image](https://github.com/gayatrib16/TravelIternary/assets/98201306/26b50511-6dab-4b04-acb2-ed988c21ee03)
+
 
 ### Installation
 
